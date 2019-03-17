@@ -1,0 +1,4 @@
+title: registrars.directory
+plugins:
+  - jekyll-money
+tlds: [ "cz" ]

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{{ site.title }}</title>
+	<script src="https://semantic-ui.com/javascript/library/jquery.min.js"></script>
+	<script src="https://semantic-ui.com/javascript/library/tablesort.js"></script>
+	<script src="https://semantic-ui.com/dist/semantic.min.js"></script>
+	<link rel="stylesheet" type="text/css" class="ui" href="https://semantic-ui.com/dist/semantic.min.css" />
+<style type="text/css">
+div.container {padding-top: 2em; padding-bottom: 5em}
+
+/* to allow (and hide) content inside icons, for sorting */
+i.icon {visibility: hidden; position: relative}
+i.icon:before {visibility: visible; position: absolute; top: 0; left: 0}
+</style>
+<script type="text/javascript">
+$(function() {
+    $('table').tablesort();
+    console.log("attached");
+});
+</script>
+</head>
+<body>
+<div class="ui container">
+	{{ content }}
+</div>
+</body>
+</html>

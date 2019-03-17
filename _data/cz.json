@@ -1,0 +1,419 @@
+{
+    "registry": {
+        "name": "CZ.NIC",
+        "url": "https://www.nic.cz"
+    },
+    "registrars": [
+        {
+            "api": {
+                "docs_url": "https://www.hexonet.net/resellers/integration",
+                "formats": [
+                    "MailRobot",
+                    "Mreg",
+                    "HTTP",
+                    "SOAP",
+                    "XML/RPC"
+                ],
+                "sdk_languages": [
+                    "PERL",
+                    "Python",
+                    "PHP",
+                    "Go",
+                    "Java",
+                    "Node.js"
+                ]
+            },
+            "name": "1API GmbH",
+            "url": "https://www.1api.net",
+            "price": {
+                "renewal": 31500
+            }
+        },
+        {
+            "api": {
+                "docs_url": "https://www.active24.cz/spoluprace/partnersky-program",
+                "formats": [
+                    "SOAP"
+                ]
+            },
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "ACTIVE 24, s.r.o.",
+            "url": "https://www.active24.cz",
+            "price": {
+                "renewal": 32549
+            }
+        },
+        {
+            "dnssec": true,
+            "mojeid": true,
+            "name": "AERO Trip PRO s.r.o.",
+            "url": "https://ok-domeny.cz"
+        },
+        {
+            "api": {
+                "docs_url": "https://aws.ascio.info/",
+                "formats": [
+                    "SOAP"
+                ]
+            },
+            "name": "Ascio Technologies inc.",
+            "url": "https://www.ascio.com"
+        },
+        {
+            "api": {
+                "docs_url": "https://www.aspone.cz/cz/Spoluprace/Programove-API-rozhrani/",
+                "formats": [
+                    "XML"
+                ],
+                "sdk_languages": [
+                    "C#",
+                    "PHP"
+                ]
+            },
+            "mojeid": true,
+            "name": "ASPone, s.r.o.",
+            "url": "https://www.aspone.cz",
+            "price": {
+                "renewal": 22900
+            }
+        },
+        {
+            "ipv6": true,
+            "name": "AXFONE s.r.o.",
+            "url": "https://www.axfone.cz"
+        },
+        {
+            "name": "Com Laude",
+            "url": "https://www.comlaude.com"
+        },
+        {
+            "api": {
+                "docs_url": "https://corehub.net/services/registrar-platform/"
+            },
+            "name": "COREHUB SL (Sociedad Unipersonal)",
+            "url": "https://corehub.net"
+        },
+        {
+            "name": "Dial Telecom, a.s.",
+            "url": "http://www.dialtelecom.cz"
+        },
+        {
+            "dnssec": true,
+            "ipv6": true,
+            "name": "e-BAAN Net s.r.o.",
+            "url": "https://www.banan.cz"
+        },
+        {
+            "name": "Economia, a.s.",
+            "url": "https://www.centrum.cz"
+        },
+        {
+            "name": "Focus IP, Inc.",
+            "url": "https://www.appdetex.com"
+        },
+        {
+            "api": {
+                "docs_url": "https://doc.rpc.gandi.net/",
+                "formats": [
+                    "XML-RPC"
+                ]
+            },
+            "name": "Gandi SAS gandi.net",
+            "url": "https://www.gandi.net",
+            "price": {
+                "renewal": 30908
+            }
+        },
+        {
+            "api": {
+                "docs_url": "https://www.domainmaster.cz/master-api/dokumentace/master-api-client/",
+                "formats": [
+                    "JSON",
+                    "YAML"
+                ],
+                "sdk_languages": [
+                    "PHP"
+                ]
+            },
+            "dnssec": true,
+            "mojeid": true,
+            "name": "GENERAL REGISTRY, s.r.o.",
+            "url": "https://www.domainmaster.cz",
+            "price": {
+                "renewal": 29040
+            }
+        },
+        {
+            "api": {
+                "docs_url": "https://subreg.cz/cz/partner/automatizace/",
+                "formats": [
+                    "SOAP",
+                    "EPP"
+                ]
+            },
+            "name": "Gransy s.r.o.",
+            "url": "https://subreg.cz",
+            "price": {
+                "renewal": 19965
+            }
+        },
+        {
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "IGNUM, s.r.o.",
+            "url": "https://www.domena.cz"
+        },
+        {
+            "name": "Instra Corporation Pty Ltd",
+            "url": "https://www.instra.com"
+        },
+        {
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "INTERNET CZ, a.s.",
+            "url": "http://domeny.forpsi.cz",
+            "price": {
+                "renewal": 18029
+            }
+        },
+        {
+            "name": "InterNetX GmbH",
+            "url": "https://www.internetx.com"
+        },
+        {
+            "name": "IP Mirror Pte Ltd",
+            "url": "https://speednames.asia"
+        },
+        {
+            "api": {
+                "docs_url": "https://www.rrpproxy.net/API",
+                "formats": [
+                    "EPP",
+                    "XRRP",
+                    "HTTP(s)",
+                    "SOAP",
+                    "XML-RPC",
+                    "SMTP"
+                ]
+            },
+            "name": "Key-Systems GmbH",
+            "url": "https://www.key-systems.net"
+        },
+        {
+            "api": {
+                "docs_url": "http://wiki.xnet.cz/pages/API",
+                "formats": [
+                    "XML"
+                ]
+            },
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "KRAXNET s.r.o.",
+            "url": "https://www.xnet.cz",
+            "price": {
+                "renewal": 24200
+            }
+        },
+        {
+            "name": "MarkMonitor Inc.",
+            "url": "https://www.markmonitor.com"
+        },
+        {
+            "name": "Media4Web s.r.o",
+            "url": "https://www.media4web.cz"
+        },
+        {
+            "name": "MIRAMO spol.s r.o.",
+            "url": "http://www.9net.cz"
+        },
+        {
+            "name": "NAMESHIELD SAS",
+            "url": "https://www.nameshield.com"
+        },
+        {
+            "name": "nexum Trilog a.s.",
+            "url": "https://www.nexum.cz"
+        },
+        {
+            "name": "O2 Czech Republic a.s.",
+            "url": "https://www.o2.cz/domena"
+        },
+        {
+            "dnssec": true,
+            "mojeid": true,
+            "name": "ONE.CZ s.r.o.",
+            "url": "https://registrator.cz"
+        },
+        {
+            "dnssec": true,
+            "ipv6": true,
+            "name": "ONEsolution s.r.o.",
+            "url": "https://www.onebit.cz"
+        },
+        {
+            "api": {
+                "docs_url": "https://api.ovh.com/",
+                "formats": [
+                    "JSON"
+                ],
+                "sdk_languages": [
+                    "Python",
+                    "PHP",
+                    "Go",
+                    "C#",
+                    "NodeJS",
+                    "Java",
+                    "Swift"
+                ]
+            },
+            "dnssec": true,
+            "ipv6": true,
+            "name": "OVH, Sas",
+            "url": "https://www.ovh.cz",
+            "price": {
+                "renewal": 18029
+            }
+        },
+        {
+            "name": "PIPNI s. r. o.",
+            "url": "https://pipni.cz"
+        },
+        {
+            "ipv6": true,
+            "name": "ProfiHOSTING s.r.o.",
+            "url": "https://www.profiwh.com"
+        },
+        {
+            "name": "Safenames Ltd.",
+            "url": "https://www.safenames.net"
+        },
+        {
+            "api": {
+                "docs_url": "https://blog.gigaserver.cz/stante-se-nasimi-subregistratory/"
+            },
+            "dnssec": true,
+            "name": "Seonet Multimedia s.r.o.",
+            "url": "https://www.gigaserver.cz",
+            "price": {
+                "renewal": 19239
+            }
+        },
+        {
+            "name": "Seznam.cz, a.s.",
+            "url": "https://emailprofi.cz"
+        },
+        {
+            "name": "Sonexo B.V.",
+            "url": "https://www.sonexo.nl"
+        },
+        {
+            "api": {
+                "docs_url": "http://kvapem.cz/napoveda/16-api/90-api-rozhrani-pro-registraci-a-spravu-domen"
+            },
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "Stable.cz s.r.o.",
+            "url": "https://kvapem.cz",
+            "price": {
+                "renewal": 23000
+            }
+        },
+        {
+            "api": {
+                "docs_url": "https://www.tele3.cz/api.html",
+                "formats": [
+                    "XML"
+                ]
+            },
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "TELE3 s.r.o.",
+            "url": "https://www.tele3.cz",
+            "price": {
+                "renewal": 20000
+            }
+        },
+        {
+            "name": "TERMS a.s.",
+            "url": "http://www.thosting.cz"
+        },
+        {
+            "name": "united-domains AG",
+            "url": "https://www.united-domains.de"
+        },
+        {
+            "name": "Variomedia AG",
+            "url": "https://www.variomedia.de"
+        },
+        {
+            "api": {
+                "docs_url": "https://www.web4u.cz/cs/domeny/api",
+                "formats": [
+                    "SOAP"
+                ]
+            },
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "Web4U s.r.o.",
+            "url": "https://www.web4u.cz",
+            "price": {
+                "renewal": 23700
+            }
+        },
+        {
+            "api": {
+                "docs_url": "https://rest.websupport.sk/docs/index",
+                "formats": [
+                    "JSON"
+                ]
+            },
+            "name": "WebSupport s.r.o.",
+            "url": "https://www.websupport.cz",
+            "price": {
+                "renewal": 21175
+            }
+        },
+        {
+            "api": {
+                "docs_url": "https://kb.wedos.com/cs/wapi.html",
+                "formats": [
+                    "JSON",
+                    "XML"
+                ]
+            },
+            "ipv6": true,
+            "name": "WEDOS Internet, a.s.",
+            "url": "https://www.wedos.cz",
+            "price": {
+                "renewal": 17545
+            }
+        },
+        {
+            "api": {
+                "docs_url": "https://www.regzone.cz/domena/api/",
+                "formats": [
+                    "XML"
+                ],
+                "sdk_languages": [
+                    "PHP"
+                ]
+            },
+            "dnssec": true,
+            "ipv6": true,
+            "mojeid": true,
+            "name": "ZONER software, a. s.",
+            "url": "https://www.regzone.cz",
+            "price": {
+                "renewal": 20449
+            }
+        }
+    ]
+}
